@@ -30,7 +30,7 @@ If you don't already have a LEMP environment running, [Valet](https://laravel.co
 #### Clone the repository:
 
 ```bash
-git clone https://github.com/devinsays/laravel-react-bootstrap
+https://github.com/dragonkingpro1999/react.git
 ```
 
 #### Create your environment file:
