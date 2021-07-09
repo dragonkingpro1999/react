@@ -88,6 +88,16 @@ _If you don't have Node and NPM installed, [instructions here](https://www.npmjs
 npm run development
 ```
 
+#### Open on web:
+
+
+```bash
+php artisan serve
+
+```
+// copy link ->paste web (http://127.0.0.1:8000)
+// don't forget all command
+
 ### Additional Set Up Tips
 
 #### Database Seeding
