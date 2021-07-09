@@ -110,12 +110,9 @@ php artisan migrate:refresh --seed --force
 
 Read more in [/docs/database-seeds.md](https://github.com/devinsays/laravel-react-bootstrap/blob/master/docs/database-seeds.md).
 
-#### Seeded User
+#### Login:
 
-After seeding the database, you can log in with these credentials:
-
-Email: `user@test.dev`
-Password: `password`
+Sign up -> login :)
 
 #### Email Driver
 
