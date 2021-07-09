@@ -95,7 +95,7 @@ npm run development
 php artisan serve
 
 ```
-// copy link ->paste web (http://127.0.0.1:8000)
+// copy link ->paste web (http://127.0.0.1:8000 or .....)
 // don't forget all command
 
 ### Additional Set Up Tips
